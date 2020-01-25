@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url(rocket.jpg);
+    background-size: cover;
+    background-position-x: center center;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+.navbar {
+    background-color: teal;
+}
