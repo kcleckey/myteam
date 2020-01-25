@@ -2,9 +2,17 @@
     background-image: url(rocket.jpg);
     background-size: cover;
     background-position-x: center center;
-    color: white;
+    color: whitesmoke;
     text-shadow: 1px 1px black;
+    text-emphasis: filled;
+    font-family: 'Press Start 2P', cursive;
 }
 .navbar {
     background-color: teal;
+    font-family: 'Press Start 2P', cursive;
+}
+
+body {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
 }
