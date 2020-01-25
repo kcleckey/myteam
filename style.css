@@ -6,6 +6,7 @@
     text-shadow: 1px 1px black;
     text-emphasis: filled;
     font-family: 'Press Start 2P', cursive;
+    text-align: left;
 }
 .navbar {
     background-color: teal;
@@ -14,5 +15,36 @@
 
 body {
     text-align: center;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
 }
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+  .lineitem:hover {
+    background-color: lightskyblue;
+  }
+
+  .header {
+      background-color: darkgray;
+  }
+
+  table {
+      width: 100%;
+  }
+
+  .number{
+      text-align: right;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .display-4 {
+      font-weight: bolder
+  }
